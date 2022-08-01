@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8">
+    <head>
+        <title>Belajar HTML </title>
+    </head>
+    <body>
+        <header>
+            <h1>bismillah</h1>
+            </header>
+            <main>
+                 
+                <section>
+                    bagian 1
+                </section>
+                <section>
+                    bagian 2
+                </section>
+                <section>
+                    bagian 3
+                </section>
+                <section>
+                    bagian 4
+                </section>
+                <p>
+                    
+                </p>
+
+
+            </main>
+            <footer>
+                ini zapip
+            </footer>
+    </body>
+</html>
+
